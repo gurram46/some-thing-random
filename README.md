@@ -1,0 +1,13 @@
+# some-thing-random
+
+A personal sandbox repository for small experiments, notes, and simple project ideas.
+
+## Purpose
+
+This repository is used for non-critical files and lightweight examples that do not belong in larger projects.
+
+## Contents
+
+- Small experiments
+- Notes
+- Draft ideas
