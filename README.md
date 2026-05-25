@@ -11,3 +11,7 @@ This repository is used for non-critical files and lightweight examples that do 
 - Small experiments
 - Notes
 - Draft ideas
+
+## Usage
+
+Use this repository for quick drafts and simple examples before moving useful work into a dedicated project repository.
