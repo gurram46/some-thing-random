@@ -15,3 +15,7 @@ This repository is used for non-critical files and lightweight examples that do 
 ## Usage
 
 Use this repository for quick drafts and simple examples before moving useful work into a dedicated project repository.
+
+## Guidelines
+
+Keep changes simple, readable, and easy to clean up later.
