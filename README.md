@@ -19,3 +19,7 @@ Use this repository for quick drafts and simple examples before moving useful wo
 ## Guidelines
 
 Keep changes simple, readable, and easy to clean up later.
+
+## Organization
+
+Group related notes and examples into folders so the repository stays easy to browse as it grows.
