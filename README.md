@@ -23,3 +23,7 @@ Keep changes simple, readable, and easy to clean up later.
 ## Organization
 
 Group related notes and examples into folders so the repository stays easy to browse as it grows.
+
+## Review
+
+Review files before reusing them in another repository, especially when moving drafts into a real project.
