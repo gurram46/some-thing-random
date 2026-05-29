@@ -27,3 +27,7 @@ Group related notes and examples into folders so the repository stays easy to br
 ## Review
 
 Review files before reusing them in another repository, especially when moving drafts into a real project.
+
+## Cleanup
+
+Remove outdated drafts when they are no longer useful, so the sandbox does not become difficult to navigate.
