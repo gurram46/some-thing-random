@@ -35,3 +35,7 @@ Remove outdated drafts when they are no longer useful, so the sandbox does not b
 ## File Naming
 
 Use clear file names that describe the experiment, note, or idea without needing to open the file first.
+
+## Documentation
+
+Add a short note or heading when introducing a new folder so future browsing stays simple.
