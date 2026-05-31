@@ -31,3 +31,7 @@ Review files before reusing them in another repository, especially when moving d
 ## Cleanup
 
 Remove outdated drafts when they are no longer useful, so the sandbox does not become difficult to navigate.
+
+## File Naming
+
+Use clear file names that describe the experiment, note, or idea without needing to open the file first.
