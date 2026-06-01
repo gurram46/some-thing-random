@@ -39,3 +39,7 @@ Use clear file names that describe the experiment, note, or idea without needing
 ## Documentation
 
 Add a short note or heading when introducing a new folder so future browsing stays simple.
+
+## Change Style
+
+Prefer small, focused commits that explain one change clearly.
