@@ -43,3 +43,7 @@ Add a short note or heading when introducing a new folder so future browsing sta
 ## Change Style
 
 Prefer small, focused commits that explain one change clearly.
+
+## Maintenance
+
+Check the repository occasionally and keep only files that still have a clear purpose.
