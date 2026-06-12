@@ -47,3 +47,7 @@ Prefer small, focused commits that explain one change clearly.
 ## Maintenance
 
 Check the repository occasionally and keep only files that still have a clear purpose.
+
+## Repository Notes
+
+Use this space for simple upkeep notes and harmless documentation updates.
