@@ -51,3 +51,7 @@ Check the repository occasionally and keep only files that still have a clear pu
 ## Repository Notes
 
 Use this space for simple upkeep notes and harmless documentation updates.
+
+## Upkeep Log
+
+- 2026-06-13: Refreshed repository documentation notes.
