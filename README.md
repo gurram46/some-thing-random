@@ -55,3 +55,4 @@ Use this space for simple upkeep notes and harmless documentation updates.
 ## Upkeep Log
 
 - 2026-06-13: Refreshed repository documentation notes.
+- 2026-06-14: Added a small upkeep reminder for repository browsing.
