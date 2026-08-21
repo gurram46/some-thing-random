@@ -18,16 +18,21 @@ is undecided; anything marked **FUTURE** is planned but does not exist yet.
 
 ## Persistence
 
-- D1: users, books, chapters, grants, sessions, progress
-  - FUTURE: schema and migrations are not created yet
-- R2: audio only
+- D1 (`packages/api/migrations/0001_init.sql`): users, sessions, books,
+  chapters (text content + audio_key), grants, reading_progress,
+  audio_progress — applied locally; remote apply happens after real
+  resources are provisioned
+- R2: audio only (**FUTURE** — no upload/streaming endpoints yet)
   - Chapter text/content lives in D1, never in R2
   - R2 bucket is private; no public URLs, ever
 
 ## Security Model
 
-- invite-only access
-- passwordless email OTP authentication (**FUTURE** — no auth implemented yet)
+- invite-only access (**FUTURE** — grant enforcement not implemented yet)
+- passwordless email OTP authentication (**FUTURE** — no reader auth yet;
+  admin routes are interim-guarded by an `ADMIN_TOKEN` bearer secret that
+  gets removed when OTP sessions land)
+- book/chapter admin CRUD is live behind the `ADMIN_TOKEN` guard
 - private R2 with authenticated audio streaming through the Worker
   (**FUTURE** — streaming endpoints not implemented yet)
 - access checked server-side on every request (**FUTURE**)
