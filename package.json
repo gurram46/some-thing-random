@@ -1,0 +1,22 @@
+{
+  "name": "reading-app",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:api": "npm run dev -w @reader/api",
+    "dev:admin": "npm run dev -w @reader/admin",
+    "dev:mobile": "npm run dev -w @reader/mobile",
+    "typecheck": "npm run typecheck --workspaces --if-present",
+    "build": "npm run build --workspaces --if-present"
+  },
+  "devDependencies": {
+    "typescript": "~5.8.3"
+  }
+}

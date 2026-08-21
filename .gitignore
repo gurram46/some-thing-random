@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+
+# builds
+dist/
+*.tsbuildinfo
+
+# cloudflare local state
+.wrangler/
+.dev.vars
+
+# environment / secrets
+.env
+.env.*
+!.env.example
+
+# expo / react native
+.expo/
+*.log
+
+# os / editor
+.DS_Store
+Thumbs.db

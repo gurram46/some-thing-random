@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Private Reader",
+    "slug": "private-reader",
+    "version": "0.1.0",
+    "scheme": "private-reader",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "bundleIdentifier": "com.privatereader.app",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.privatereader.app"
+    },
+    "plugins": ["expo-router"]
+  }
+}
